@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sounds/ChaChing.mp3</file>
+        <file>sounds/Clink.mp3</file>
+    </qresource>
+</RCC>
